@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hoang Thi Bich Ngoc (Ngocngoc12)</h1>
+<h1 align="center">Hi 👋, I'm Hoang Bich Ngoc (Ngocngoc12)</h1>
 <h3 align="center">QA Automation Engineer / Python Developer from Vietnam</h3>
 
 <p align="center">
