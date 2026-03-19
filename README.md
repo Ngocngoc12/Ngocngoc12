@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hoang Bich Ngoc (Ngocngoc12)</h1>
+<h1 align="center">Hi 👋, I'm Hoang Thi Bich Ngoc (Ngocngoc12)</h1>
 <h3 align="center">QA Automation Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27AE60&center=true&vCenter=true&width=550&lines=Software+Tester+(QA%2FQC);Automation+Testing;Business+Analyst+Enthusiast;Strong+OOP+(Java%2FC%2B%2B);Python+Lover;Data+Visualization+(Power+BI)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27AE60&center=true&vCenter=true&width=550&lines=Software+Tester+(QA%2FQC);Automation+Testing;Business+Analyst+Enthusiast;Basic+OOP+(Java%2FC%2B%2B);Python+Lover;Data+Visualization+(Power+BI)" alt="Typing SVG" />
 </p>
 
 ---
