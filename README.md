@@ -12,7 +12,7 @@
 - 💡 Mình có nền tảng lập trình thuật toán và OOP cơ bản.
 - 🔭 Hiện tại mình đang tập trung phát triển kỹ năng **Kiểm thử tự động (Automation Testing)** và **Business Analyst**. 
 - 🌱 Mình đam mê viết code sạch, tối ưu hóa quy trình bằng **CI/CD** và đảm bảo chất lượng phần mềm. 
-- 📊 Có chút kinh nghiệm trực quan hóa dữ liệu và xây dựng dashboard,mô hình hóa hệ thống.
+- 📊 Có chút kinh nghiệm trực quan hóa dữ liệu và xây dựng dashboard, mô hình hóa hệ thống.
 - ⚡ Sở thích: Khám phá các công nghệ mới.
 
 ### 🛠️ Kỹ năng & Công cụ:
