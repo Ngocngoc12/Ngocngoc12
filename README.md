@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hoang Thi Bich Ngoc (Ngocngoc12)</h1>
-<h3 align="center">QA Automation Engineer</h3>
+<h3 align="center">QA Automation Engineer/DA </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27AE60&center=true&vCenter=true&width=550&lines=Software+Tester+(QA%2FQC);Automation+Testing;Business+Analyst+Enthusiast;Basic+OOP+(Java%2FC%2B%2B);Python+Lover;Data+Visualization+(Power+BI)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27AE60&center=true&vCenter=true&width=550&lines=Software+Tester+(QA%2FQC);Automation+Testing;Data+Analyst;Basic+OOP+(Java%2FC%2B%2B);Python+Lover;Data+Visualization+(Power+BI)" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### 👩‍💻 Về bản thân mình:
 - 🎓 Sinh viên năm tư **Học viện Kỹ thuật Mật mã (ACT) - Hà Nội**.
 - 💡 Mình có nền tảng lập trình thuật toán và OOP cơ bản.
-- 🔭 Hiện tại mình đang tập trung phát triển kỹ năng **Kiểm thử tự động (Automation Testing)** và **Business Analyst**. 
+- 🔭 Hiện tại mình đang tập trung phát triển kỹ năng **Kiểm thử tự động (Automation Testing)** và **Data Analyst**. 
 - 🌱 Mình đam mê viết code sạch, tối ưu hóa quy trình bằng **CI/CD** và đảm bảo chất lượng phần mềm. 
 - 📊 Có chút kinh nghiệm trực quan hóa dữ liệu và xây dựng dashboard, mô hình hóa hệ thống.
 - ⚡ Sở thích: Khám phá các công nghệ mới.
