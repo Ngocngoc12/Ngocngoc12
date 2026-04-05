@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hoang Thi Bich Ngoc (Ngocngoc12)</h1>
-<h3 align="center">Data Analyst / Data Scientist</h3>
+<h3 align="center">Data Analyst / Data Scientist Intern</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27AE60&center=true&vCenter=true&width=550&lines=Data+Analyst;Data+Scientist;Machine+Learning;Python+Lover;Data+Visualization+(Power+BI);SQL+%26+Data+Wrangling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=27AE60&center=true&vCenter=true&width=550&lines=Data+Analyst+Intern;Data+Scientist+Intern;Machine+Learning;Python+Lover;Data+Visualization+(Power+BI);SQL+%26+Data+Wrangling" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,10 +10,10 @@
 ### 👩‍💻 Về bản thân mình:
 - 🎓 Sinh viên năm tư **Học viện Kỹ thuật Mật mã (ACT) - Hà Nội**.
 - 💡 Mình có nền tảng vững chắc về thuật toán, tư duy logic và cấu trúc dữ liệu.
-- 🔭 Hiện tại mình đang tập trung phát triển sự nghiệp theo hướng **Data Analytics** và **Data Science**. 
-- 🌱 Đam mê làm việc với dữ liệu: từ Data Cleaning, EDA (Exploratory Data Analysis) đến việc xây dựng các mô hình Machine Learning dự báo. 
-- 📊 Có kinh nghiệm trực quan hóa dữ liệu (Data Visualization), kể chuyện bằng dữ liệu (Data Storytelling) và xây dựng Dashboard hỗ trợ ra quyết định kinh doanh.
-- ⚡ Sở thích: Khám phá các bộ dữ liệu mới trên Kaggle và tối ưu hóa model.
+- 🔭 Hiện tại mình đang là **Data Intern** và định hướng phát triển chuyên sâu trong lĩnh vực **Data Analytics** & **Data Science**. 
+- 🌱 Đam mê thực hành với dữ liệu: từ Data Cleaning, EDA (Exploratory Data Analysis) đến việc tìm hiểu và xây dựng các mô hình Machine Learning. 
+- 📊 Có kinh nghiệm thực tế trong việc trực quan hóa dữ liệu (Data Visualization), kể chuyện bằng dữ liệu (Data Storytelling) qua các project cá nhân/bài test năng lực.
+- ⚡ Sở thích: Khám phá các bộ dữ liệu mới trên Kaggle, tối ưu hóa code và học hỏi kiến thức domain knowledge (tài chính, bán lẻ...).
 
 ### 🛠️ Kỹ năng & Công cụ:
 
@@ -44,8 +44,12 @@
 
 ### 📈 Thống kê GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ngocngoc12&show_icons=true&theme=tokyonight&hide_border=true&title_color=27AE60" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngocngoc12&layout=compact&theme=tokyonight&hide_border=true&title_color=27AE60" width="48%" />
+  <a href="https://github.com/Ngocngoc12">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ngocngoc12&show_icons=true&theme=tokyonight&hide_border=true&title_color=27AE60" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Ngocngoc12">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngocngoc12&layout=compact&theme=tokyonight&hide_border=true&title_color=27AE60" alt="Top Languages" />
+  </a>
 </p>
 
 ---
