@@ -45,10 +45,10 @@
 ### 📈 Thống kê GitHub:
 <p align="center">
   <a href="https://github.com/Ngocngoc12">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ngocngoc12&show_icons=true&theme=tokyonight&hide_border=true&title_color=27AE60" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ngocngoc12&show_icons=true&theme=tokyonight&hide_border=true&title_color=27AE60&v=1" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/Ngocngoc12">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngocngoc12&layout=compact&theme=tokyonight&hide_border=true&title_color=27AE60" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngocngoc12&layout=compact&theme=tokyonight&hide_border=true&title_color=27AE60&v=1" alt="Top Languages" width="48%" />
   </a>
 </p>
 
