@@ -8,7 +8,7 @@
 ---
 
 ### 👩‍💻 Về bản thân mình:
-- 🎓 Sinh viên năm tư **Học viện Kỹ thuật Mật mã (ACT) - Hà Nội**.
+- 🎓 Sinh viên **Học viện Kỹ thuật Mật mã (ACT) - Hà Nội**.
 - 💡 Mình có nền tảng vững chắc về thuật toán, tư duy logic và cấu trúc dữ liệu.
 - 🔭 Hiện tại mình đang là **Data Intern** và định hướng phát triển chuyên sâu trong lĩnh vực **Data Analytics** & **Data Science**. 
 - 🌱 Đam mê thực hành với dữ liệu: từ Data Cleaning, EDA (Exploratory Data Analysis) đến việc tìm hiểu và xây dựng các mô hình Machine Learning. 
